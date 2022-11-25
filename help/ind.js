@@ -35,11 +35,9 @@ Daftar hadis:
 
 exports.groupBot = (sender) => {
     return `
-Link Group Chika Fenst : https://chat.whatsapp.com/HLU6B1Mw34QBMUoXAyhec0
-Link Group Chika Fenst V2 : https://chat.whatsapp.com/IwGkynIvQAk1J6wQVDLeFC
-
-
-Jangan lupa join ya kak @${sender.split('@')[0]}`
+Link Group IBALL Fenst : Gaad
+Link Group IBALL Fenst V2 : Gaad
+Jangan lupa DI SHARE YAAA @${sender.split('@')[0]}`
 }
 
 exports.BlockBan = (ownerNumber, prefix) => {
@@ -176,13 +174,13 @@ exports.menu = (prefix, ucap, pushname2, jumlahUser, timebot, owner, jumlahHaria
 
 ╭── 「 *BOT INFO* 」 ──
 │
-│❒͡  _*CHIKA BOT*_ 
+│❒͡  _*IBALL BOTZ*_ 
 │❒͡ *Contact My Owner*
 │ *https://wa.me/${owner}*
 │❒͡ *Time: ${time}*
 │❒͡ *STATUS* :「 ${public} 」
 │
-╰── 「 *CHIKA BOT* 」 ──
+╰── 「 *IBALL BOTZ* 」 ──
 
 ❉──────────────────❉  
 *Name* : *${pushname2}* 
@@ -207,7 +205,7 @@ exports.menu = (prefix, ucap, pushname2, jumlahUser, timebot, owner, jumlahHaria
 
  𒍮 *Total Hit Today : ${jumlahHarian}*
 
-*── 「 CHIKA BOT 」 ──*
+*── 「 IBALL BOTZ 」 ──*
 
 
 *Official BOT By @0*`
